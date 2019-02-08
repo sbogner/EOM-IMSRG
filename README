@@ -1,6 +1,7 @@
 HELLO, WELCOME TO THE EOM-IMSRG CODE: "EOM-IMSRG CODE"
 Collaborator scottkevinbogner added this on his forked repo. Now he'll try to open a pull request.
 Added a 2nd comment on his cloned local repo.
+Oops, previous one had sbogner config set in Desktop. Now doing it as scottkevinbogner.
 
 The purpose of this effort is to build an ab-initio framework from which one can compute nuclear excited
 state properties directly from the underlying chiral- NN and 3N forces. The method is the
